@@ -1,6 +1,6 @@
 import pytest
 
-import minesweeper
+from minesweeper import minesweeper
 
 
 def test_module_exists():
