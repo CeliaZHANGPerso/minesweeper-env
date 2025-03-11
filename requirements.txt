@@ -10,7 +10,6 @@ identify==2.6.9
 iniconfig==2.0.0
 isort==6.0.1
 mccabe==0.7.0
--e git+ssh://git@github.com/CeliaZHANGPerso/minesweeper-env.git@7230efb2a6c0eb1f36072140d974a1cc51c7a180#egg=minesweeper_env
 mypy-extensions==1.0.0
 nodeenv==1.9.1
 packaging==24.2
